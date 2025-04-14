@@ -1,5 +1,7 @@
 import "./App.css";
+import Chart from "./Components/Chart/Chart";
 import Navbar from "./Components/Navbar/Navbar";
+import PricingContainer from "./Components/PricingContainer/PricingContainer";
 
 function App() {
   return (
@@ -7,6 +9,10 @@ function App() {
       <header>
         <Navbar></Navbar>
       </header>
+      <Chart></Chart>
+      <main>
+        <PricingContainer></PricingContainer>
+      </main>
     </>
   );
 }

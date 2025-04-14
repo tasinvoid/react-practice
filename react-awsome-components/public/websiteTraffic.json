@@ -1,0 +1,155 @@
+[
+  {
+    "date": "2023-10-01",
+    "visits": 1500,
+    "unique_visitors": 1200,
+    "page_views": 4500,
+    "bounce_rate": 35.5,
+    "average_session_duration": "00:05:30"
+  },
+  {
+    "date": "2023-10-02",
+    "visits": 1800,
+    "unique_visitors": 1400,
+    "page_views": 5000,
+    "bounce_rate": 30.0,
+    "average_session_duration": "00:06:00"
+  },
+  {
+    "date": "2023-10-03",
+    "visits": 2000,
+    "unique_visitors": 1600,
+    "page_views": 6000,
+    "bounce_rate": 28.0,
+    "average_session_duration": "00:06:30"
+  },
+  {
+    "date": "2023-10-04",
+    "visits": 2200,
+    "unique_visitors": 1800,
+    "page_views": 7000,
+    "bounce_rate": 25.0,
+    "average_session_duration": "00:07:00"
+  },
+  {
+    "date": "2023-10-05",
+    "visits": 2500,
+    "unique_visitors": 2000,
+    "page_views": 8000,
+    "bounce_rate": 22.0,
+    "average_session_duration": "00:07:30"
+  },
+
+  {
+    "date": "2023-10-06",
+    "visits": 2600,
+    "unique_visitors": 2100,
+    "page_views": 8500,
+    "bounce_rate": 20.0,
+    "average_session_duration": "00:08:00"
+  },
+  {
+    "date": "2023-10-07",
+    "visits": 2400,
+    "unique_visitors": 2000,
+    "page_views": 7800,
+    "bounce_rate": 23.5,
+    "average_session_duration": "00:07:45"
+  },
+  {
+    "date": "2023-10-08",
+    "visits": 2200,
+    "unique_visitors": 1900,
+    "page_views": 7400,
+    "bounce_rate": 25.0,
+    "average_session_duration": "00:07:20"
+  },
+  {
+    "date": "2023-10-09",
+    "visits": 2100,
+    "unique_visitors": 1850,
+    "page_views": 7200,
+    "bounce_rate": 26.5,
+    "average_session_duration": "00:06:50"
+  },
+  {
+    "date": "2023-10-10",
+    "visits": 2300,
+    "unique_visitors": 1950,
+    "page_views": 7600,
+    "bounce_rate": 25.5,
+    "average_session_duration": "00:07:10"
+  },
+  {
+    "date": "2023-10-11",
+    "visits": 2700,
+    "unique_visitors": 2200,
+    "page_views": 9000,
+    "bounce_rate": 19.0,
+    "average_session_duration": "00:08:15"
+  },
+  {
+    "date": "2023-10-12",
+    "visits": 2900,
+    "unique_visitors": 2400,
+    "page_views": 9200,
+    "bounce_rate": 18.5,
+    "average_session_duration": "00:08:45"
+  },
+  {
+    "date": "2023-10-13",
+    "visits": 3100,
+    "unique_visitors": 2600,
+    "page_views": 9500,
+    "bounce_rate": 17.0,
+    "average_session_duration": "00:09:00"
+  },
+  {
+    "date": "2023-10-14",
+    "visits": 3300,
+    "unique_visitors": 2800,
+    "page_views": 9700,
+    "bounce_rate": 15.5,
+    "average_session_duration": "00:09:30"
+  },
+  {
+    "date": "2023-10-15",
+    "visits": 3100,
+    "unique_visitors": 2700,
+    "page_views": 10000,
+    "bounce_rate": 16.5,
+    "average_session_duration": "00:09:20"
+  },
+  {
+    "date": "2023-10-16",
+    "visits": 3400,
+    "unique_visitors": 2900,
+    "page_views": 10500,
+    "bounce_rate": 14.0,
+    "average_session_duration": "00:09:50"
+  },
+  {
+    "date": "2023-10-17",
+    "visits": 3600,
+    "unique_visitors": 3000,
+    "page_views": 11000,
+    "bounce_rate": 13.0,
+    "average_session_duration": "00:10:10"
+  },
+  {
+    "date": "2023-10-18",
+    "visits": 3800,
+    "unique_visitors": 3200,
+    "page_views": 11500,
+    "bounce_rate": 12.5,
+    "average_session_duration": "00:10:15"
+  },
+  {
+    "date": "2023-10-19",
+    "visits": 4000,
+    "unique_visitors": 3400,
+    "page_views": 12000,
+    "bounce_rate": 11.5,
+    "average_session_duration": "00:10:30"
+  }
+]

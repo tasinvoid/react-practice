@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Monthly Plan",
+    "price": 9.99,
+    "features": [
+      "Access to all chart types",
+      "Real-time data updates",
+      "Basic support",
+      "Downloadable reports"
+    ],
+    "duration": "1 month"
+  },
+  {
+    "id": 2,
+    "name": "Weekly Plan",
+    "price": 3.99,
+    "features": [
+      "Access to all chart types",
+      "Real-time data updates",
+      "Limited support",
+      "Downloadable reports"
+    ],
+    "duration": "1 week"
+  },
+  {
+    "id": 3,
+    "name": "Yearly Plan",
+    "price": 99.99,
+    "features": [
+      "Access to all chart types",
+      "Real-time data updates",
+      "Priority support",
+      "Downloadable reports",
+      "Analytics dashboard"
+    ],
+    "duration": "12 months"
+  }
+]

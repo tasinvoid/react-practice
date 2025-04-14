@@ -26,10 +26,12 @@ const Navbar = () => {
         {menuBtn ? (
           <MenuComponent paths={paths}></MenuComponent>
         ) : (
-          <Menu className="lg:hidden"></Menu>
+          <Menu className="lg:hidden md:hidden"></Menu>
         )}
 
-        <h2 className="flex items-center cursor-pointer pt-bolder text-2xl">Charts</h2>
+        <h2 className="flex items-center cursor-pointer pt-bolder text-2xl">
+          Charts
+        </h2>
       </span>
 
       <ul className="hidden md:flex gap-7 items-center ">
